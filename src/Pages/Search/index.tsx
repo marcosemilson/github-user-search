@@ -68,7 +68,7 @@ const Search = () => {
               type="button"
               id="link"
               target="blank"
-              className="btn btn-primary border-radius-10 mt-3"
+              className="btn btn-primary border-radius-10 mt-3 "
             >
               Ver Perfil
                 </a>

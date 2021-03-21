@@ -7,6 +7,7 @@ const Navbar = ()=>(
             <Link 
                 to="/"
                 type="button"
+                className="nav-logo-text"
             >
             <h6>Bootcamp DevSuperior</h6>
             </Link>
